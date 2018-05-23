@@ -69,9 +69,7 @@ end
   #   New Years: Party Hats
   # Summer:
   #   Fourth Of July: Fireworks, BBQ
-  # etc.
 
-end
 
 def all_holidays_with_bbq(holiday_hash)
   # return an array of holiday names (as symbols) where supply lists
